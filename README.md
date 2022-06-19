@@ -6,12 +6,12 @@
 <strong>:hammer_and_wrench: Project:</strong> Recreate Instagram frontpage directly from original site, with mobile version. Using:
 
 <ul>
-  <li><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="32"/>HTML</li>
-  <li><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="32"/>CSS</li>
-  <li><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="32"/>Sass SCSS</li>
-  <li><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="32"/>Media Queries</li>
-  <li><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="32"/>Flexbox</li>
-  <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="32"/>Javascript</li>
+  <li><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="20"> HTML</li>
+  <li><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="20"> CSS</li>
+  <li><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="20"> Sass SCSS</li>
+  <li><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="20"> Media Queries</li>
+  <li><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="20"> Flexbox</li>
+  <li><img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" height="20"> Javascript</li>
 </ul>
 
 In this challenge, the task was to recreate the Instagram login page layout. The reference proposed had a static mobile photo, but today I checked and saw the live Instagram's page and now it also has some image's fading animations with 3 photos alternating. For the responsivity, these mobile photos are supposed to get hidden when on a viewport smaller than 875 pixels.
