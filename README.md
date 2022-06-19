@@ -5,7 +5,7 @@
 
 <strong>:hammer_and_wrench: Project:</strong> Recreate Instagram frontpage directly from original site, with mobile version. Using:
 
-<ul>
+<ul style="list-style-type:none">
   <li><img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" height="20"> HTML</li>
   <li><img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" height="20"> CSS</li>
   <li><img src="https://github.com/devicons/devicon/blob/master/icons/sass/sass-original.svg" height="20"> Sass SCSS</li>
